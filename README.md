@@ -1,6 +1,8 @@
 # Music-Genre-Classification
  Classification of music files based on the genres. We will apply deep learning algorithms to create models, which can classify audio files into various genres. After training the model, we will also analyze the performance of our trained model.
  
+Drive link: https://drive.google.com/drive/folders/1LVgF9w1vowpLxe5nuUptsfetXLAlTzFe
+ 
 ## Dataset:
 We will use GITZAN dataset, which contains 1000 music files. Dataset has ten types of genres with uniform distribution. Dataset has the following genres: blues, classical, country, disco, hiphop, jazz, reggae, rock, metal, and pop. Each music file is 30 seconds long.
 
